@@ -1,4 +1,4 @@
-# Size-Conforming-Arterial-Plaque-Eliminator-Lipid-NanoParticles-SCRAPE-LNP-
+# Size-Conforming-Arterial-Plaque-Eliminator-and-Lipid-Nanoparticle-Embedded-Silicone-Stent-for-CHD
 
 Authors: Victoria Albanese, Brian Bishara, Matan Blitz, Cameron Erber, Yeonju Kim, Gloria Ni, Alice Zhou
 
@@ -18,7 +18,7 @@ The UltraVisor-C is a face shield. Figure 1 shows the final prototype of our dev
 
 The prototype used 3D-printed materials for the main structure with Open Source SLDPRT files. These printed parts are attached using epoxy, hot glue, and superglue. For the removable cloth parts, consisting of the hat and the sealing cloth, velcro strips help to attach them to the chamber and visor. Finally, the visor is removable, in case the user needs to eat, drink, or touch their face.
 
-<img width="574" alt="Screen Shot 2022-05-05 at 9 51 14 PM" src="https://user-images.githubusercontent.com/48959871/167059038-4898df00-ce2f-4938-be9a-9f016c09c69a.png">
+<img width="574" alt="SCRAPE-LNP" src="https://user-images.githubusercontent.com/104453485/196781342-21472471-eda4-48c6-9d33-4528e722b0f2.PNG">
 
 YouTube link of how our prototype works: 
 https://youtu.be/ixSwmfPEwCU

@@ -40,7 +40,7 @@ After the blade stops rotating, the filter canopy can be partially closed by rot
 
 While there are existing solutions that attempt to prevent distal embolization, these solutions have a number of limitations. Embolization in side branches proximal to the filter might not be prevented.33 Moreover, existing distal filters are reported for common modes of failure such as detachment and/or damage of the device components, device entrapment, and stent-related issues.34 Our umbrella filter evades these problems by conforming to any coronary artery diameter and subsequently closing in on the plaque, thus preventing bypass of the plaque. Our filter will also remain attached to the catheter, thus avoiding modes of failure associated with distal filters that are not secured to the catheter.
 
-<img width="800" alt="umbrella" src="https://user-images.githubusercontent.com/104453485/196788949-c91bc159-539e-4ccf-9b2d-c3da202f08cc.png">
+<img width="500" alt="umbrella" src="https://user-images.githubusercontent.com/104453485/196788949-c91bc159-539e-4ccf-9b2d-c3da202f08cc.png">
 
 ## Silicone Stent
 Following the plaque removal procedure, an expandable silicone-coated metal stent is placed into the patient’s artery. The stent is placed in the artery via a traditional balloon catheter attached to the guidewire and located directly in front of the filter canopy.5,15 As the rest of the SCRAPE–LNP apparatus is removed from the artery, the stent is finally expanded by inflating the balloon at the target location. Once the stent is secured in place, the guidewire subsequently directs the catheter and the entire device body to exit the artery before the sheath is removed.

@@ -19,9 +19,10 @@ The plaque removal mechanism consists of 4 parts: a helical blade, an internally
 <img width="800" alt="blade" src="https://user-images.githubusercontent.com/104453485/196784287-30b9dee5-6aee-4cf2-b8ee-cd5a35cd5546.png">
 
 The second component in plaque removal, the cylindrical body attached to the blade, is hollow and 2.22 mm in diameter. 2.22 mm was chosen, as it creates a 0.8 burr to artery diameter ratio (assuming an average coronary artery diameter of 2.78 mm).23,24 The body length is 15 mm, based on the standard balloon length for cutting balloon angioplasty.25 The lateral surface of the body is a polylactic acid (PLA) 110-micron-pore filter, similar to existing filters, that stores the plaque without impeding blood flow.26 The body’s inner diameter is 1.82 mm, which allows it to house plaque cut by the blade while not interfering with the catheter. On the surface opposite the blade, the body contains a mesh stop internally-threaded with female screw threads that allows the body and blade to move rotationally along the externally-threaded catheter. An external compressed gas motor, which is standard for rotational atherectomy, attaches to the body, thus facilitating its rotational motion.27 This, in turn, guides the attached blade to rotate and cut plaque.
-The guidewire is a standard guidewire for balloon angioplasty and will have a diameter of 0.0356 mm.28 The guide catheter is a standard “child-mother” system that encases the guidewire and has an outer diameter of 1.32 mm (4 F).28 It is composed of an inner teflon layer, a stainless steel braidwire core, and a nylon outer layer, which is standard for balloon angioplasty catheters.28 The nylon outer layer is externally-threaded with 18-8 stainless steel male screw threads that have a 0.254 mm pitch, a thread angle of 60°, and a thread depth of 0.0889 mm. These dimensions create spaces between each thread, thus maintaining the flexibility of the guide catheter. The guide catheter’s male screw threads interface with the female screw threads of the body, allowing the device to traverse the vessel in a lateral and rotational motion.
 
-<img width="800" alt="blade" src="https://user-images.githubusercontent.com/104453485/196786014-a45f2238-8a5d-4d94-a0a8-ab1b0d00156c.mp4">
+<img width="800" alt="blade" src="https://user-images.githubusercontent.com/104453485/196786340-5fa09953-8b06-46f8-b4a8-803a96a1f377.mp4">
+
+The guidewire is a standard guidewire for balloon angioplasty and will have a diameter of 0.0356 mm.28 The guide catheter is a standard “child-mother” system that encases the guidewire and has an outer diameter of 1.32 mm (4 F).28 It is composed of an inner teflon layer, a stainless steel braidwire core, and a nylon outer layer, which is standard for balloon angioplasty catheters.28 The nylon outer layer is externally-threaded with 18-8 stainless steel male screw threads that have a 0.254 mm pitch, a thread angle of 60°, and a thread depth of 0.0889 mm. These dimensions create spaces between each thread, thus maintaining the flexibility of the guide catheter. The guide catheter’s male screw threads interface with the female screw threads of the body, allowing the device to traverse the vessel in a lateral and rotational motion.
 
 The difference between our solution and existing atherectomy procedures is that our solution has a flexible helical blade, an externally-threaded guidewire, and an internally-threaded body. These attributes offer three key advantages: less damage to the vessel walls during the procedure, more precise plaque removal, and greater time-efficiency. Current atherectomy procedures risk abrasions on the vessel walls due to imprecise use of the device. Our design mitigates this by implementing a flexible blade and silicone outer sheath that protects against tissue lacerations. The helically-shaped blade along with the screw guidewire allows for a much closer cut to the vessel wall by coiling and uncoiling to conform to the artery diameter. It will also remove plaque in one continuous motion, unlike balloon angioplasty, which significantly reduces the procedure time. Moreover, the cylindrical body acts as a storage unit for cut plaque, preventing plaque and atheromatous debris from remaining in the bloodstream. This reduces the harmful effects of distal embolization characteristic of standard atherectomy procedures.
 
@@ -64,19 +65,72 @@ For future teams that plan on continuing this project, we hope that our prototyp
 The modified CAD files we created are added to this post, as well as photos of our prototypes. 
 
 ## References
-https://www.uvisor.org/
+1. What is coronary heart disease?. [Online]. U.S. Department of Health and Human Services; https://www.nhlbi.nih.gov/health/coronary-heart-disease.  
+2. Heart Disease Facts. [Online]. Centers for Disease Control and Prevention; July 15, 2022. https://www.cdc.gov/heartdisease/facts.htm#:~:text=Coronary%20heart%20disease%20is%20the,killing%20382%2C820%20people%20in%202020.&text=About%2020.1%20million%20adults%20age,have%20CAD%20(about%207.2%25).&text=In%202020%2C%20about%202%20in,less%20than%2065%20years%20old.  
+3. Brown J, Gerhardt TE, Kwon E. Risk Factors For Coronary Artery Disease. [Online]. StatPearls Publishing LLC.; June 5, 2022. https://www.ncbi.nlm.nih.gov/books/NBK554410/   
+4. Chen-Scarabelli C. Beating-heart coronary artery bypass graft surgery: Indications, advantages, and limitations. Critical Care Nurse. Vol. 22, Issue 5: 2022  https://go-gale-com.ezproxy.rice.edu/ps/i.do?p=HRCA&u=txshracd2542&id=GALE%7CA93210982&v=2.1&it=r 
+5. Bittl JA. Advances in Coronary Angioplasty. The New England Journal of Medicine. 1996 https://www.nejm.org/doi/full/10.1056/NEJM199610243351707
+6. Product Classification. [Online]. U.S. Food & Drug Administration;  https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm?ID=MAF#:~:text=The%20formerly%20known%20device%2C%20Cardiovascular,graft%20to%20maintain%20the%20lumen.&text=GMP%20Exempt%3F
+7. Premarket Approval (PMA). [Online]. U.S. Food and Drug Administration, FDA, Center for Devices and Radiological Health; https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/premarket-approval-pma
+8. Regulatory Controls. [Online]. U.S. Food and Drug Administration, FDA, Center for Devices and Radiological Health; 
+https://www.fda.gov/medical-devices/overview-device-regulation/regulatory-controls
+9. Safety of Metals and Other Materials Used in Medical Devices. [Online]. U.S. Food and Drug Administration, FDA, Center for Devices and Radiological Health;
+https://www.fda.gov/medical-devices/products-and-medical-procedures/safety-metals-and-other-materials-used-medical-devices  
+10. Hyperarts RM. Coronary Artery Bypass Grafting (CABG). University of California San Francisco Department of Surgery; https://surgery.ucsf.edu/conditions--procedures/coronary-artery-bypass-grafting-(cabg).aspx#:~:text=A%20series%20of%20small%20incisions,6%20to%208%20inches%20long 
+11. Savage MP, et al. Efficacy of coronary stenting versus balloon angioplasty in small coronary arteries. Journal of the American College of Cardiology. 31:307-311, 1998. 
+12. Coronary Artery Bypass Graft: How It's Performed. [Online]. NHS Choices, NHS; 
+https://www.nhs.uk/conditions/coronary-artery-bypass-graft-cabg/what-happens/ 
+13. Guzman LA, Simpfendorfer C, Fix J, Franco I, Whitlow PL. Comparison of costs of new atherectomy devices and balloon angioplasty for coronary artery disease. The American Journal of Cardiology. 74:22-25, 1994. 
+14. Nikolsky E, Gruberg L, Pechersky S, Kapeliovich M, Grenadier E, Amikam S, Boulos M, Suleiman M, Markiewicz W, Beyar R. Stent deployment failure: reasons, implications, and short- and long-term outcomes. Catheterization and Cardiovascular Interventions. 59:324–328, 2003 
+15. Saterbak A, San KY, McIntire LV. Bioengineering Fundamentals. 2nd Edition. New York: Pearson Prentice Hall; 2018, p.112. 
+16. Malik I, Berger A. Coronary angioplasty and stenting. BMJ. 325(7363):519, 2002. 
+17. Balaji NR, Shah PB. Radial Artery Catheterization. AHA Journals. 124:1409–1420, 2011.
+18. Pojjanut B, Chanya C, Chakree O. Flexibility and hardness of dental stainless steel wrought wires used in Thailand. Journal of Oral Science. 43:15-19, 2001.
+19. Murty Y. Use of stainless steels in medical applications. Medical Device Materials - Proceedings of the Materials and Processes for Medical Devices Conference. 289-293, 2003.
+20. Dodge JT, Brown BG, Bolson EL, Dodge HT. Lumen diameter of normal human coronary arteries. influence of age, sex, anatomic variation, and left ventricular hypertrophy or dilation. Circulation. 86:232-246, 1992. 
+21. Fallahi D, Mirzadeh H, Khorasani MT. Physical, mechanical, and biocompatibility evaluation of three different types of silicone rubber. Journal of Applied Polymer Science. 88:2522-2529, 2003
+22. Williams MJ, McCormick MP, Kay IP, Restieaux NJ. Improved coronary artery flow after coronary angioplasty in patients with unstable angina. Aust N Z J Med. 30(2):226-230, 2000
+23. Zhou FF, Liu Y, Ge PC, Chen ZH, Ding XQ, Liu JY, Jia QW, An FH, Li LH, Wang LS, Ma WZ, Yang ZJ, Jia EZ. Coronary Artery Diameter is Inversely Associated with the Severity of Coronary Lesions in Patients Undergoing Coronary Angiography. Cellular Physiology and Biochemistry. 43:1247-1257, 2017. 
+24. Willis SL. Debulking in Cardiovascular Interventions and Revascularization Strategies. 1st Edition. Academic Press; 2022, p.221-239
+25. Nagendra C, Santhosh K, Anil D. Percutaneous Intervention of Calcific Coronary Stenosis. 2015, 713. 
+26. Patel S, Hermiller J. Embolic protection: the FilterWire EZ Embolic Protection System. Expert Rev Med Devices. 5:19-24, 2008. 
+27. Willis SL. Debulking in Cardiovascular Interventions and Revascularization Strategies. 1st Edition. Academic Press; 2022, p.71-99
+28. Ronan A, Adam BG, Aaron DK. A Review of Available Angioplasty Guiding Catheters, Wires and Balloons - making the Right Choice. Interventional Cardiology. 7(2):100–3, 2012.
+29. Atsushi H, Masashi I, Hiroyoshi Y, Shinji T, Tomohiro S, Katsuo N, Yoshisato S, Yutaka H, Koichi N, Takafumi U, Masakiyo N. PCI Using a 4-Fr ‘‘Child’’ Guide Catheter in a ‘‘Mother’’
+Guide Catheter. Catheterization and Cardiovascular Interventions. 76:919–923, 2010.
+30. Xu T, Shen W, Lin X, Xie YM. Mechanical Properties of Additively Manufactured Thermoplastic Polyurethane (TPU) Material Affected by Various Processing Parameters. Polymers. 12(12):3010, 2020. 
+31. Patel S, Hermiller J. Embolic protection: the FilterWire EZ Embolic Protection System. Expert Rev Med Devices. 5(1):19-24, 2008.
+32. Yeo JCC, Muiruri JK, Koh JJ, Thitsartarn W, Zhang X, Kong J, Lin TT , Li Z, He C. Bend, Twist, and Turn: First Bendable and Malleable Toughened PLA Green Composites. Advanced Functional Materials. 30(30):1-12, 2020. 
+33. Hiroshi U, Motoyoshi M, Kojiro Y Yasunori N. Prevention of distal embolization during directional coronary atherectomy. Journal of Cardiology Cases. 21:213-216, 2020.
+34. Khalid N, Javed H, Rogers T, Hashim H, Shlofmitz E, Chen Y, Khan JM, Musallam A, Torguson R, Bernardo NL, Waksman R. Adverse events and modes of failure related to the FilterWire EZ Embolic Protection System: Lessons learned from an analytic review of the FDA MAUDE database. Catheter Cardiovasc Interv. 94:157-164, 2019.
+35. SLENDER Sirolimus-Eluting Coronary Stent Integrated Delivery System and DIRECT Sirolimus-Eluting Coronary Stent Rapid Exchange Delivery System – P210014. [Online]. U.S. Food & Drug Administration.
+https://www.fda.gov/medical-devices/recently-approved-devices/slender-sirolimus-eluting-coronary-stent-integrated-delivery-system-and-direct-sirolimus-eluting#:~:text=The%20SLENDER%20Sirolimus%2DEluting%20Coronary,and%204.00%20mm%20in%20size 
+36. Yang K, Cao J, Yuan TW, Zhu YQ, Zhou B, Cheng YS. Silicone-covered biodegradable magnesium stent for treating benign esophageal stricture in a rabbit model. World Journal of Gastroenterology. 25:3207-3217, 2019.
+37. Fu J, Su Y, Qin YX, Zheng Y, Wang Y, Zhu D. Evolution of metallic cardiovascular stent materials: A comparative study among stainless steel, magnesium and zinc. Biomaterials. 230:1-17, 2020. 
+38. Zhao J, Luo G, Wu J, Xia H. Preparation of Microporous Silicone Rubber Membrane with Tunable Pore Size via Solvent Evaporation-Induced Phase Separation. ACS Applied Materials & Interfaces. 5: 2040–2046, 2013.
+39. Liu D, Lipponen K, Quan K, Wan X, Zhang H, Mäkilä E, Salonen J, Kostiainen R, Hirvonen J, Kotiaho T, Santos HA. Impact of Pore Size and Surface Chemistry of Porous Silicon Particles and Structure of Phospholipids on Their Interactions. ACS Biomaterials Science & Engineering. 4(7): 2308-2313, 2018.
+40. Anglin EJ, Cheng L, Freeman WR, Sailor MJ. Porous silicon in drug delivery devices and materials. Advanced Drug Delivery Reviews. 60: 1266-1277, 2008
+41. King MW, Bambharoliya T, Ramakrishna H, Zhang F. Coronary Artery Disease and The Evolution of Angioplasty Devices. Cham: Springer International Publishing; p. 43. 2020.
+42. Ulric F, Thomas M. Endothelial Nitric Oxide Synthase in Vascular Disease. Journal of the American Heart Association. 113(13), 2006.
+43. Wadhwa A, Aljabbari A, Lokras A, Foged C, Thakur A. Opportunities and Challenges in the Delivery of mRNA-based Vaccines. Pharmaceutics. 12: 102, 2020.
+44. Ren, T., Song, Y., Zhang, G. et al. Structural basis of DOTMA for its high intravenous transfection activity in mouse. Gene Ther 7, 764–768, 2000. 
+45. Cheng X, Lee RJ. The role of helper lipids in lipid nanoparticles (LNPs) designed for oligonucleotide delivery. Advanced Drug Delivery Reviews. 99:129-137, 2016. 
+46. Hou X, Zaks T, Langer, R, Dong, Y. Lipid nanoparticles for mRNA delivery. Nature Review Materials. 6: 1078–1094, 2021.
+47. Kraft JC, Freeling JP, Wang Z, Ho RJ. Emerging research and clinical development trends of liposome and lipid nanoparticle drug delivery systems. J Pharm Sci. 103(1):29-52, 2014.
+48. Tousoulis D, Kampoli AM, Tentolouris C, Papageorgiou N, Stefanadis C. The role of nitric oxide on endothelial function. Current Vascular Pharmacology. 10:4-18, 2012.
+49. Senst B, Goyal A, Basit H, Borger J. StatPearls [Online]. Treasure Island: StatPearls Publishing; 2022.
+50. van der Hoeven BL, Pires NM, Warda HM, Oemrawsingh PV, van Vlijmen BJ, Quax PH, Schalij MJ, van der Wall EE, Jukema JW. Drug-eluting stents: results, promises and problems. Int J Cardiol. 99:9-17, 2005. 
+51. van der Hoeven BL, Pires NM, Warda HM, Oemrawsingh PV, van Vlijmen BJ, Quax PH, Schalij MJ, van der Wall EE, Jukema JW. Drug-eluting stents: results, promises and problems. Int J Cardiol. 10;99(1):9-17, 2005.
+52. Maisel WH, Laskley WK. Drug-Eluting Stents. Circulation. 115: 426-427, 2007.
+53. Stangl PA, Lewis S. Review of Currently Available GP IIb/IIIa Inhibitors and Their Role in Peripheral Vascular Interventions. Semin Intervent Radiol. 27(4):412-21, 2010. 
+54. HIGHLIGHTS OF PRESCRIBING INFORMATION - ELIQUIS (apixaban) label. U.S. Food & Drug Administration. https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/202155s000lbl.pdf 
+55. Blood thinner pills: Your guide to using them safely. [Online]. Agency for Healthcare Research and Quality; https://www.ahrq.gov/patients-consumers/diagnosis-treatment/treatments/btpills/btpills.html 
+56. Chen W, Habraken TCJ, Hennink WE, Kok RJ. Polymer-Free Drug-Eluting Stents: An Overview of Coating Strategies and Comparison with Polymer-Coated Drug-Eluting Stents. Bioconjugate Chemistry. 26: 1277-1288, 2015.
+57. Sebastián MS, Giuliana M, Esperanza MR. Solid Lipid Nanoparticles for Drug Delivery: Pharmacological and Biopharmaceutical Aspects. Frontiers in Molecular Biosciences. 7, 2020.
+58. Coronary, Peripheral, and Neurovascular Guidewires – Performance Tests and Recommended Labeling: Guidance for Industry and Food and Drug Administration Staff. [Online]. U.S. Food & Drug Administration; Oct. 10, 2019. https://www.fda.gov/media/113959/download 
+59. Rezvani Ghomi E, Khosravi F, Saedi Ardahaei A, Dai Y, Neisiany RE, Foroughi F, Wu M, Das O, Ramakrishna S. The Life Cycle Assessment for Polylactic Acid (PLA) to Make It a Low-Carbon Material. Polymers (Basel). 13(11):1854, 2021.
+60. Wang J, Yang B, Lin X, Gao L, Liu T, Lu Y, Wang R. Research of TPU Materials for 3D Printing Aiming at Non-Pneumatic Tires by FDM Method. Polymers (Basel). 12(11):2492, 2020. 
 
-https://doi.org/10.1086/503643
-
-https://www.mdpi.com/1996-1944/13/15/3363/htm
-
-https://doi.org/10.37624/ijert/13.7.2020.1562-1566
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7882915/
-
-https://www.sciencedirect.com/science/article/pii/S1477893920302301
-
-https://doi.org/10.1063/5.0022968
 
 ## Acknowledgements
 Instructor: Dr. Renata Ramos

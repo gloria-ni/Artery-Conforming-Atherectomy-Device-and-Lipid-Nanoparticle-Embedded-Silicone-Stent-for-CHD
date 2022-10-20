@@ -1,4 +1,4 @@
-# Size-Conforming-Arterial-Plaque-Eliminator-and-Lipid-Nanoparticle-Embedded-Silicone-Stent-for-CHD
+# Artery-Conforming-Plaque-Eliminator-and-Lipid-Nanoparticle-Embedded-Silicone-Stent-for-CHD-Treatment
 
 Authors: Victoria Albanese, Brian Bishara, Matan Blitz, Cameron Erber, Yeonju Kim, Gloria Ni, Alice Zhou
 

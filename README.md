@@ -1,4 +1,4 @@
-# Artery-Conforming-Atherectomy-Device-and-Lipid-Nanoparticle-Embedded-Silicone-Stent-for-CHD
+# Artery-Conforming-Atherectomy-Device-and-Lipid-Nanoparticle-Embedded-Silicone-Stent-to-Treat-CHD
 
 Authors: Victoria Albanese, Brian Bishara, Matan Blitz, Cameron Erber, Yeonju Kim, Gloria Ni, Alice Zhou
 
@@ -10,7 +10,7 @@ Currently, the predominant non-prescription methods used to treat CHD (i.e. card
 ## Problem Statement
 The SCRAPE–LNP aims to treat adults with CHD in a cost-effective, time-efficient, and non-invasive manner while minimizing vessel damage and restoring blood flow.
 
-## Design Overview
+## Device Overview
 The Size-Conforming Rotational Arterial Plaque Eliminator – Lipid Nanoparticles (SCRAPE-LNP) combines radial catheterization, a plaque removal device, a downstream filter, and the addition of a modified stent. To remove plaque, a flexible blade travels along a helically-threaded guidewire by rotating along its threads. The blade’s flexibility allows it to uniquely conform to the width of the artery, allowing for optimal plaque removal and minimal damage to the artery walls as compared to existing solutions. As plaque is cut, it is contained within the device’s mesh body. There is also a filter that operates with a modified umbrella mechanism downstream of the blade, contributing to a bilateral filtration system for the plaque removal apparatus. After the plaque removal stage is complete, an expandable, silicone-coated stent is placed into the artery. Within nanopores on the silicone surface, there are lipid nanoparticles (LNPs) filled with mRNA encoding for endothelial nitric oxide synthase (eNOS), an enzyme that generates the vasoprotective molecule nitric oxide. This vasodilator mitigates the thrombosis and restenosis associated with existing stents.
 
 <img width="800" alt="SCRAPE-LNP" src="https://user-images.githubusercontent.com/104453485/196781342-21472471-eda4-48c6-9d33-4528e722b0f2.PNG">

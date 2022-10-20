@@ -1,4 +1,4 @@
-# Artery-Conforming-Plaque-Eliminator-and-Lipid-Nanoparticle-Embedded-Silicone-Stent-for-CHD-Treatment
+# Artery-Conforming-Atherectomy-Device-and-Lipid-Nanoparticle-Embedded-Silicone-Stent-for-CHD
 
 Authors: Victoria Albanese, Brian Bishara, Matan Blitz, Cameron Erber, Yeonju Kim, Gloria Ni, Alice Zhou
 
